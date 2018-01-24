@@ -1,0 +1,60 @@
+
+body {
+	font-size: 25px;
+	min-width: 1100px;
+	max-width: 1350px;
+	font-family: Verdana, Times New Roman, sans-serif;
+	margin: 0 auto;
+}	
+
+#header {
+	padding-top: 10px;
+	text-align: center;
+	padding-bottom: 20px;
+}
+#mainContainer {
+	
+	width: 100%;
+	background-color: #E6E6E6;
+}
+nav.picAndParagraph img{
+	float: left;
+	width: 400px;
+	height: 350px;
+	padding-left: 20px;
+}
+
+nav.picAndParagraph p {
+	position: relative;
+	float: right;
+	padding-left: 20px;
+	width: 900px;
+	top: -30px;
+}
+
+#whyTakeClass {
+	clear: both;
+	padding: 10px;
+	
+}
+
+#resources {
+	padding-bottom: 45px;
+}
+
+h3 {
+	font-size: 45px;
+	padding-top: 20px;
+	text-align: center;
+}
+
+ul{
+	font-size: 30px;
+	padding-top: 20px;
+	padding-left: 100px;
+   	
+}
+
+a:hover {
+	color: #FAAC58;
+}
